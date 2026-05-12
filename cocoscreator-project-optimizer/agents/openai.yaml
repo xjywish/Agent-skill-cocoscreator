@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cocos Creator 项目优化审计"
+  short_description: "审计 Cocos Creator 游戏项目的资源体积、重复资源、场景结构与管理问题。"
+  default_prompt: "Use $cocoscreator-project-optimizer to audit this Cocos Creator project and give practical optimization advice."
