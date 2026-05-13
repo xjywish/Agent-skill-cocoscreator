@@ -1,4 +1,4 @@
-interface:
-  display_name: "Cocos Creator ÏîÄ¿ÓÅ»¯Éó¼Æ"
-  short_description: "Éó¼Æ Cocos Creator ÓÎÏ·ÏîÄ¿µÄ×ÊÔ´Ìå»ı¡¢ÖØ¸´×ÊÔ´¡¢³¡¾°½á¹¹Óë¹ÜÀíÎÊÌâ¡£"
-  default_prompt: "Use $cocoscreator-project-optimizer to audit this Cocos Creator project and give practical optimization advice."
+ï»¿interface:
+  display_name: "Cocos Creator é¡¹ç›®ä¼˜åŒ–å®¡è®¡"
+  short_description: "ä»¥æ¸¸æˆå¼€å‘è€…è§†è§’å®¡è®¡ Cocos Creator é¡¹ç›®å¹¶ç”Ÿæˆç²¾ç¾ HTML ä¼˜åŒ–æŠ¥å‘Šã€‚"
+  default_prompt: "Use $cocoscreator-project-optimizer to audit this Cocos Creator project and generate a clear HTML optimization report."
